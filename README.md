@@ -1,5 +1,9 @@
 <h1>Hi, I'm Or Shraga! </h1>
-
+<h2>About me</h2>
+Just graduated Electrical Engineer with Majors in computer engineering and communication.
+ Aspiring for excellence, able to work fast, diligently, and independently, operate under pressure, and utilize excellent time management skills. Searching for a challenging junior position in the field.
+ 
+<br />
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>Python</b>
