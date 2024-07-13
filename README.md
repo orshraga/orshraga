@@ -1,8 +1,9 @@
 <h1>Hi, I'm Or Shraga! </h1>
 <h2>About me</h2>
-Just graduated Electrical Engineer with Majors in computer engineering and communication.
- Aspiring for excellence, able to work fast, diligently, and independently, operate under pressure, and utilize excellent time management skills. Searching for a challenging junior position in the field.
- 
+Junior Electrical Engineer with Majors in computer engineering and communication.
+Power Engineer at Solaredge technologies.
+Aspiring to learn new things all the time, able to work fast, diligently, and independently.
+Expiernced with several technologies, look for my linkedin profile.
 <br />
 <h2>👨‍💻 Coding Projects:</h2>
 
