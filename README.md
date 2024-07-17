@@ -8,10 +8,7 @@ Expiernced with several technologies, look for my linkedin profile.
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>Python</b>
-  - Digit Detection (NN)
-  - Rush Hour Game (OOP)
-  - 4 In Line Game (OOP)
-  - X/O Game (OOP)
+  - (Digit Detection (NN), Rush Hour Game (OOP), 4 In Line Game (OOP), X/O Game (OOP))
 <!--
 <h2>📺 FPGA projects</h2>
 - Fase Detection Using XML File
