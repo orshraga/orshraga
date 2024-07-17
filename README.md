@@ -7,8 +7,8 @@ Expiernced with several technologies, look for my linkedin profile.
 <br />
 <h2>📺 FPGA projects</h2>
 - <b>Verilog</b>
+- <b>Final Project B.Sc EE</b>
 - Fase Detection Using XML File
-- Counter
 
 <h2>👨‍💻 Coding Projects:</h2>
 - <b>Python</b>
