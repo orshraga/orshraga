@@ -7,11 +7,12 @@ Expiernced with several technologies, look for my linkedin profile.
 <br />
 <h2>👨‍💻 Coding Projects:</h2>
 
+<h2>📺 FPGA projects</h2>
+- Fase Detection Using XML File
 - <b>Python</b>
   - (Digit Detection (NN), Rush Hour Game (OOP), 4 In Line Game (OOP), X/O Game (OOP))
 <!--
-<h2>📺 FPGA projects</h2>
-- Fase Detection Using XML File
+
 
 <h2>📺 Embedded projects</h2>
 -RPI and USB2 camera- Car Detection
