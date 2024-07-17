@@ -5,10 +5,11 @@ Power Engineer at Solaredge technologies.
 Aspiring to learn new things all the time, able to work fast, diligently, and independently.
 Expiernced with several technologies, look for my linkedin profile.
 <br />
-<h2>👨‍💻 Coding Projects:</h2>
-
 <h2>📺 FPGA projects</h2>
+- <b>Verilog</b>
 - Fase Detection Using XML File
+
+<h2>👨‍💻 Coding Projects:</h2>
 - <b>Python</b>
   - (Digit Detection (NN), Rush Hour Game (OOP), 4 In Line Game (OOP), X/O Game (OOP))
 <!--
