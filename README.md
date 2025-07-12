@@ -12,6 +12,13 @@ Check out my [LinkedIn profile](https://www.linkedin.com/in/or-shraga/) for more
 
 <h2>📌 Highlighted Project</h2>
 
+### 🧠 [DIV2K_SR_chalge](https://github.com/OrShraga/DIV2K_SR_chalge) – Super-Resolution with ESPCN, CNN NETWORK
+- **USING CNN & RESIDUAL CONNECTION**
+🚀 Final project for "Deep Learning in Signal & Image Processing" course  
+🔍 Compared **Vanilla ESPCN**, **Residual ESPCN**, and **Ablation (No Global Skip)**  
+📈 Evaluated on **PSNR, SSIM, FID** – Residual model performed best  
+🛠 Built with PyTorch Lightning, `piq`, DIV2K dataset, Google Colab
+---
 ### 🚗 Real-Time Car Detection with Raspberry Pi & USB Camera
 - **Tech:** Python, OpenCV, Embedded Linux
 - **Description:**  
