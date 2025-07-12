@@ -1,11 +1,10 @@
 <h1>Hi, I'm Or Shraga! 👋</h1>
 
 <h2>About Me</h2>
-I'm a Junior Electrical Engineer with a major in Computer Engineering and Communication.  
-Currently, I'm a Power Engineer at **SolarEdge Technologies**.  
+I'm a M.Sc srudent in Electrical Engineer at BGU with a major in Computer Engineering and Communication.  
 I’m passionate about learning new technologies, and I’m known for working quickly, independently, and with great attention to detail.  
 
-I'm experienced in various programming languages and hardware design, especially in FPGA and embedded systems.  
+I'm experienced in various programming languages and hardware design, especially in ML, CV, FPGA and embedded systems.  
 Check out my [LinkedIn profile](https://www.linkedin.com/in/or-shraga/) for more!
 
 ---
